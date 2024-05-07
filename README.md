@@ -4,8 +4,7 @@
 重要的LLM开源模型：
 
 1、llama.cpp（LLAMA的C++语言实现，将模型缩小化，可在CPU运行）：
-
-https://github.com/ggerganov/llama.cpp
+\nhttps://github.com/ggerganov/llama.cpp
 
 2、whisper.cpp（语音大模型，可以识别语音，将语音转文字，文字转语音，依赖llama.cpp）：
 
