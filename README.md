@@ -45,7 +45,7 @@ token长度有限制，会进行切分，获取第一个token BOS：llama_token_
 
 token转换为字符：llama_token_to_piece/llama_token_to_byte，位置：llama.cpp\main\main.cpp等，llama_token_to_str已经不支持
 
-模型执行：老llama.cpp版本llama_eval，新版本待确认；
+模型执行：老llama.cpp版本llama_eval，新版本中使用llama_decode，主要看打印日志确认：failed to eval；
 
 token推理结果获取：llama_get_logits等相关函数，位置：llama.cpp\llama.cpp等
 
