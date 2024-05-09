@@ -13,6 +13,9 @@ https://blog.csdn.net/sinat_35576477/article/details/130895108
 
 https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247519554&idx=1&sn=c619e9907fb515e88b6265cf7017b726&chksm=9f8337d4a8f4bec27c755148f904668a46c85322e6ba31bc6b0286887bbb30f8a24a49d2d918&mpshare=1&scene=23&srcid=1107jzAJDvx0GcmHJO92iIcA&sharer_shareinfo=3dc56c7e8fdbf855398ab67e34dfb5c7&sharer_shareinfo_first=3dc56c7e8fdbf855398ab67e34dfb5c7#rd
 
+llama.cpp使用C++ API开发：
+https://blog.csdn.net/u012234115/article/details/134604154
+
 2、whisper.cpp（语音大模型，可以识别语音，将语音转文字，文字转语音，依赖llama.cpp）：
 
 https://github.com/ggerganov/whisper.cpp
