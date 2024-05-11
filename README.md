@@ -42,6 +42,8 @@ https://github.com/Mozilla-Ocho/llamafile
 https://github.com/jart/cosmopolitan
 https://github.com/ggerganov/llama.cpp
 
+llamafile编程示例：https://ashishware.com/2024/01/05/Llamafile/
+
 主要接口函数：
 
 模型加载：llama_init_from_gpt_params，位置：llama.cpp\main\main.cpp等
