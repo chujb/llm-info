@@ -58,6 +58,24 @@ token转换为字符：llama_token_to_piece/llama_token_to_byte，位置：llama
 
 token推理结果获取：llama_get_logits等相关函数，位置：llama.cpp\llama.cpp等
 
+可选参数说明：
+
+-ngl 9999 表示模型的多少层放到 GPU 运行，其他在 CPU 运行，如果没有 GPU 则可设置为 -ngl 0 ，默认是 9999，也就是全部在 GPU 运行（需要装好驱动和 CUDA 运行环境）。
+
+--host 0.0.0.0 web 服务的hostname，如果只需要本地访问可设置为 --host 127.0.0.1 ，如果是0.0.0.0 ，即网络内可通过 ip 访问。
+
+--port 8080 web服务端口，默认 8080 ,可通过该参数修改。
+
+-t 16 线程数，当 cpu 运行的时候，可根据 cpu 核数设定多少个内核并发运行。
+
+其他参数可以通过 --help 查看。
+
+llamafile支持以下CPU类型：
+
+AMD64架构的微处理器必须支持SSSE3指令集。如果不支持，llamafile将显示错误信息并无法运行。这意味着，如果您使用的是Intel CPU，至少需要是Intel Core或更新系列（约2006年以后）；如果是AMD CPU，至少需要是Bulldozer或更新系列（约2011年以后）。如果您的CPU支持AVX或更高级的AVX2指令集，llamafile将利用这些特性以提升性能。目前AVX512及更高级指令集的运行时调度尚未得到支持。
+
+ARM64架构的微处理器必须支持ARMv8a+指令集。从Apple Silicon到64位Raspberry Pis的设备都应该兼容，只要您的权重数据能够适应内存容量。
+
 7、Personal Assistant框架
 
 Langchain（数据解析，支持本地和网路数据接口，参考localGPT）+whisper（语音大模型：语音识别和转换，语音转文字，文字转语音）+LLM（大模型：支持各种大模型）+llamafile跨平台打包和提供前端web交互页面
