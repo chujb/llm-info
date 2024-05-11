@@ -60,6 +60,6 @@ token推理结果获取：llama_get_logits等相关函数，位置：llama.cpp\l
 
 7、Personal Assistant框架
 
-Langchain（数据解析，支持本地和网路数据接口）+whisper（语音大模型：语音识别和转换，语音转文字，文字转语音）+LLM（大模型：支持各种大模型）+llamafile跨平台打包和提供前端web交互页面
+Langchain（数据解析，支持本地和网路数据接口，参考localGPT）+whisper（语音大模型：语音识别和转换，语音转文字，文字转语音）+LLM（大模型：支持各种大模型）+llamafile跨平台打包和提供前端web交互页面
 
 支持PC、平板、手机和智能眼镜等产品，实现所见即检视识别，所拍即检索识别，所听即检视识别等能力
