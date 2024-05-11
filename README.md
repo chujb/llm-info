@@ -24,6 +24,12 @@ https://github.com/openai/whisper
 3、localGPT（本地知识库，识别PDF文档，依赖llama.cpp）：
 https://github.com/PromtEngineer/localGPT
 
+ingest.py，使用LangChain工具解析文档并使用InstructorEmbeddings在本地创建嵌入，然后，它使用Chroma vector store将结果存储在本地向量数据库中。（生成本地数据库，首次需要下载hkunlp/instructor-large 1.5G的模型）
+
+run_localGPT.py，使用本地LLM来理解问题并创建答案。答案的上下文是从本地向量存储中提取的，使用相似性搜索从文档中定位正确的上下文片段。（问题：答案生成速度慢）
+
+可以将此本地LLM替换为HuggingFace的任何其他LLM。确保你选择的任何LLM都是HF格式的。
+
 4、privateGPT（本地知识库，该工具支持多种文档格式，包括CSV、Word文档、EverNote、Email、EPub、HTML文件、Markdown、Outlook消息、Open Document Text、PDF、PowerPoint文档和UTF-8编码的文本文件。）：
 https://github.com/zylon-ai/private-gpt
 
