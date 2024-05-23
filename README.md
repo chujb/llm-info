@@ -83,3 +83,8 @@ ARM64架构的微处理器必须支持ARMv8a+指令集。从Apple Silicon到64�
 Langchain（数据解析，支持本地和网路数据接口，参考localGPT）+whisper（语音大模型：语音识别和转换，语音转文字，文字转语音）+LLM（大模型：支持各种大模型）+llamafile跨平台打包和提供前端web交互页面
 
 支持PC、平板、手机和智能眼镜等产品，实现所见即检视识别，所拍即检索识别，所听即检视识别等能力
+
+8、容器技术
+Linux容器(Container)发展史：https://www.cnblogs.com/dgdg/p/16163687.html
+
+容器技术及其应用白皮书：https://blog.csdn.net/wh211212/article/details/53535881
