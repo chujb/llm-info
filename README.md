@@ -85,6 +85,7 @@ Langchain（数据解析，支持本地和网路数据接口，参考localGPT）
 支持PC、平板、手机和智能眼镜等产品，实现所见即检视识别，所拍即检索识别，所听即检视识别等能力
 
 8、容器技术
+
 Linux容器(Container)发展史：https://www.cnblogs.com/dgdg/p/16163687.html
 
 容器技术及其应用白皮书：https://blog.csdn.net/wh211212/article/details/53535881
