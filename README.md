@@ -94,6 +94,11 @@ Linux容器(Container)发展史：https://www.cnblogs.com/dgdg/p/16163687.html
 https://blog.csdn.net/u012271526/article/details/120565866
 
 OpenGLES 与 EGL 基础概念：https://zhuanlan.zhihu.com/p/74006499
+
 https://zhuanlan.zhihu.com/p/432215702
 
+https://www.cnblogs.com/yongdaimi/p/11244950.html
+
 Nvidia GPU如何在Kubernetes 里工作：https://zhuanlan.zhihu.com/p/58919502
+
+Android进阶5：SurfaceView实现原理分析：https://juejin.cn/post/6844903968217235469
