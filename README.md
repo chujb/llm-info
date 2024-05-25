@@ -92,3 +92,5 @@ Linux容器(Container)发展史：https://www.cnblogs.com/dgdg/p/16163687.html
 
 白话容器基础：https://cloud.tencent.com/developer/article/2074761
 https://blog.csdn.net/u012271526/article/details/120565866
+
+OpenGLES 与 EGL 基础概念：https://zhuanlan.zhihu.com/p/74006499
