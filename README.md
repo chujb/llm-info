@@ -104,3 +104,5 @@ Nvidia GPU如何在Kubernetes 里工作：https://zhuanlan.zhihu.com/p/58919502
 Android进阶5：SurfaceView实现原理分析：https://juejin.cn/post/6844903968217235469
 
 https://www.jianshu.com/p/3b5b6f2469d8
+
+https://github.com/huanzhiyazi/articles/issues/29
