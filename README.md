@@ -109,9 +109,13 @@ https://github.com/huanzhiyazi/articles/issues/29
 
 虚拟化技术与文件隔离：https://demonlee.tech/archives/container-history-1
 
+Qemu-pipe简介：https://www.cnblogs.com/edver/p/16255025.html
+
+https://blog.csdn.net/woai110120130/article/details/94304596
+
 android容器大全：
 https://paul.pub/android-on-chrome-os/
 
 https://github.com/huataihuang/cloud-atlas-draft/blob/master/develop/android/linux/install_and_run_android_apps_on_linux_in_container.md
 
-
+Minijail：https://google.github.io/minijail/
