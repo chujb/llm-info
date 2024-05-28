@@ -119,3 +119,8 @@ https://paul.pub/android-on-chrome-os/
 https://github.com/huataihuang/cloud-atlas-draft/blob/master/develop/android/linux/install_and_run_android_apps_on_linux_in_container.md
 
 Minijail：https://google.github.io/minijail/
+
+anbox分析：https://blog.csdn.net/qq_36383272/category_9934190.html
+https://blog.csdn.net/qq_36383272/article/details/105680570?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-105680570-blog-105163579.235%5Ev43%5Epc_blog_bottom_relevance_base8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-105680570-blog-105163579.235%5Ev43%5Epc_blog_bottom_relevance_base8&utm_relevant_index=9
+
+
