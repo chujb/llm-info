@@ -115,6 +115,8 @@ https://blog.csdn.net/woai110120130/article/details/94304596
 
 GPU虚拟化的评价标准与实现策略：https://blog.csdn.net/u011364612/article/details/53967132
 
+Android ION内存分配：https://www.cnblogs.com/sky-heaven/p/12869838.html
+
 android容器大全：
 https://paul.pub/android-on-chrome-os/
 
