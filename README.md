@@ -138,3 +138,5 @@ https://finance.sina.cn/tech/2023-03-18/detail-imymhvry0917466.d.html?from=wap
 https://blog.51cto.com/u_16213585/9759371
 
 智能眼镜产品：google glass、Ray-Ban Stories
+
+智能设备观点：https://36kr.com/p/2751175552203781
