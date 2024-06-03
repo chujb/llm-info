@@ -131,4 +131,8 @@ https://blog.csdn.net/qq_36383272/article/details/105680570?spm=1001.2101.3001.6
 
 https://cloud.tencent.com/developer/article/1601437
 
-google glass：https://finance.sina.cn/tech/2023-03-18/detail-imymhvry0917466.d.html?from=wap
+google glass：
+
+https://finance.sina.cn/tech/2023-03-18/detail-imymhvry0917466.d.html?from=wap
+
+https://blog.51cto.com/u_16213585/9759371
