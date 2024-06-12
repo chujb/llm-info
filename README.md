@@ -1,4 +1,4 @@
-# llm-info
+![image](https://github.com/chujb/llm-info/assets/139798861/e9ea3072-a493-4525-92ee-f409e596cd04)# llm-info
 记录关于LLM的学习心得
 
 重要的LLM开源模型：
@@ -156,3 +156,4 @@ https://developer.aliyun.com/article/1063428
 https://developer.aliyun.com/article/227602
 https://gityuan.com/2016/03/05/binder-clearCallingIdentity/
 https://www.cnblogs.com/yiwangzhibujian/p/6207212.html
+https://www.cnblogs.com/mickole/articles/3203501.html
