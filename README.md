@@ -153,3 +153,6 @@ https://source.android.com/docs/setup/download/downloading?hl=zh-cn
 https://source.android.com/?hl=zh-cn
 https://blog.csdn.net/jinxinliu1/article/details/70174591
 https://developer.aliyun.com/article/1063428
+https://developer.aliyun.com/article/227602
+https://gityuan.com/2016/03/05/binder-clearCallingIdentity/
+https://www.cnblogs.com/yiwangzhibujian/p/6207212.html
