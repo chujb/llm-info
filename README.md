@@ -157,3 +157,4 @@ https://developer.aliyun.com/article/227602
 https://gityuan.com/2016/03/05/binder-clearCallingIdentity/
 https://www.cnblogs.com/yiwangzhibujian/p/6207212.html
 https://www.cnblogs.com/mickole/articles/3203501.html
+https://tech.meituan.com/2017/09/14/android-binde-kcon.html
