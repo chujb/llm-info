@@ -146,9 +146,10 @@ http://www.css.csail.mit.edu/6.858/2018/readings/ios-security-jan18.pdf
 第一性原理：
 https://36kr.com/p/2444025734176648
 
-aosp：
+Android相关：
 https://juejin.cn/post/7137152614818873352
 https://android.googlesource.com/kernel/common/
 https://source.android.com/docs/setup/download/downloading?hl=zh-cn
 https://source.android.com/?hl=zh-cn
 https://blog.csdn.net/jinxinliu1/article/details/70174591
+https://developer.aliyun.com/article/1063428
